@@ -1,8 +1,6 @@
 # UnityAR-Compression-Comparison-Benchmark
 This project dives into compression methods (LZ4, LZMA, Zip...) to enhance AR experiences on resource-limited devices. Elevate your AR game with efficient compression.
 
-# Project Title
-
 ## Overview
 
 The rapid advancement of digital twin technology poses challenges in resource limitations on mobile devices and computational inefficiencies affecting user experiences. This project explores multiple lossless compression algorithms within Unity's integrated AssetBundle and Addressable methods to optimize bundle sizes and visualization time in AR applications. The study delves into the efficiency of compression methods and generates statistical models for estimating mobile phone resources in AR-based mobile applications.
