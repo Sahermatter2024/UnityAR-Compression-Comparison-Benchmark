@@ -62,5 +62,4 @@ This project contributes valuable insights into optimizing AR applications throu
 - Complete data results are saved under the `Results` folder.
 - Sample 3D models are saved under the `Datasample` folder.
 
-Include relevant citations to the scientific literature and sources mentioned in the text.
 
