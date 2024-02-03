@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0ac78def1441065419adcbfc8ea62bfc
+  m_SerializeEntries:
+  - m_GUID: 36beac3ae6259bf418114c9d550e9631
+    m_Address: Assets/Models Copy/Final Models Bundle/Packing_Sim_Final_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab4
+  - m_GUID: 7676f9c4f3254da4c9176b5c696ba53a
+    m_Address: Assets/Models/Final Models Bundle/Packing_Sim_Final_Larger2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab6
+  - m_GUID: 0eafe19fd86d91f48af17d50db0cbbe8
+    m_Address: Assets/Models/Final Models Bundle/Packing_Sim_Final_Larger3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab7
+  - m_GUID: 09b724e5d678e734f897363a6d0a616e
+    m_Address: Assets/Models Copy/Final Models Bundle/Packing_Sim_Final_Larger0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab3
+  - m_GUID: ecab6e6faec676244b42e59aea8b7b12
+    m_Address: Assets/Models Copy/Final Models Bundle/Packing_Sim_Final_Medium.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab2
+  - m_GUID: 5e5b31508f5a77943b96b3bd5dcfc744
+    m_Address: Assets/Models Copy/Final Models Bundle/Packing_Sim_Final_Larger1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab5
+  - m_GUID: 17e373df23bf63d42a2f0acf9baf737a
+    m_Address: Assets/Models Copy/Final Models Bundle/Rotary-Machine_Final_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab1
+  - m_GUID: 4fd021698a10da14e9bb2625052dfcc8
+    m_Address: Assets/Models Copy/New Model/Final New Models/Robot_Factory_Final_0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab8
+  - m_GUID: f1eaa20e1c6cd8a48acfee6646d452e4
+    m_Address: Assets/Models Copy/New Model/Final New Models/Robot_Factory_Final_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab9
+  - m_GUID: ae5f1331bbf50e240926d3eba139316c
+    m_Address: Assets/Models Copy/New Model/Final New Models/Robot_Factory_Final_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab11
+  - m_GUID: 577b0f697a59d304289b44bd0e5f49ed
+    m_Address: Assets/Models Copy/New Model/Final New Models/Robot_Factory_Final_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab10
+  - m_GUID: d709d4ccd900ee44da0d5f2e3ba2e0a3
+    m_Address: Assets/Models Copy/New Model/Final New Models/Robot_Factory_Final_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lab12
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f896b3a6174d6114c83a17e18592cd82, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b5f1387ce9c36db41bb91fc6c14e653e, type: 2}
+    - {fileID: 11400000, guid: 9841cd634894ccb41b08c6446ecbf81b, type: 2}
