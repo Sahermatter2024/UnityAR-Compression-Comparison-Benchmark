@@ -15,8 +15,8 @@ The rapid advancement of digital twin technology poses challenges in resource li
 - [Testing Benchmark](#testing-benchmark)
 - [Analysis](#analysis)
 - [Conclusion](#conclusion)
-- [Acknowledgments](#acknowledgments)
-- [References](#references)
+- [Tools](#tools)
+- Results and Datasample](#results-and-datasample)
 
 ## Introduction
 
@@ -48,11 +48,19 @@ A comprehensive analysis used 12 data-sets, including three industrial virtual l
 
 This project contributes valuable insights into optimizing AR applications through compression algorithms within Unity's AssetBundle and Addressable methods. The findings enhance our understanding of performance implications and provide practical recommendations for developers working on AR-based mobile applications.
 
-## Acknowledgments
+## Tools
 
-We acknowledge the contributions of Santos [22], Glushakov et al. [23], Solmaz & Van Gerven [24], and Alatalo et al. [25], whose work influenced and inspired aspects of our research.
+- Unity v2021.3.12f1
+- Vuforia AR-Engine v10.3.2
+- Lenovo mobile phone running 245 Android 8.0 with API level 26
+- Apache web server solution stack package v3.3.0 239 (XAMPP)
+- Addressable Package” version 1.19.19.
+- Asset-Bundle Browser Tool
+  
+## Results and Datasample
 
-## References
+- Complete data results are saved under the `Results` folder.
+- Sample 3D models are saved under the `Datasample` folder.
 
 Include relevant citations to the scientific literature and sources mentioned in the text.
 
